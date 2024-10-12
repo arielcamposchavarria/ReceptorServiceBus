@@ -1,0 +1,6 @@
+@ReceptorServiceBus_HostAddress = http://localhost:5001
+
+GET {{ReceptorServiceBus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
